@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karanmbt
-- 👀 I’m interested in Java,C# and HTML/CSS
-- 🌱 I’m currently learning Java and C#
+- 👀 I’m interested in Python(ML/AI), Java, C# (Unity), and HTML/CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on an Idle game project made with Unity
 - 📫 How to reach me Karanthumar123321@gmail.com
 

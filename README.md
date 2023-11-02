@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Karanmbt
 - 👀 I’m interested in Python(ML/AI), Java, C# (Unity), and HTML/CSS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on an Idle game project made with Unity
-- 📫 How to reach me Karanthumar123321@gmail.com
+- 📫 How to reach me karan.thumar128@gmail.com
 
 <!---
 Karanmbt/Karanmbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

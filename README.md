@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in Python(ML/AI), Java, C# (Unity), and HTML/CSS
-- 🌱 I’m currently learning Python
 - 📫 How to reach me karan.thumar128@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karan
-- 👀 I’m interested in Python(ML/AI), Java, C# (Unity), and HTML/CSS
+- 👀 I’m interested in Game Dev(Godot-GDScript), Python(ML/AI), Java, C# (Unity), and HTML/CSS
 - 📫 How to reach me karan.thumar128@gmail.com
 
 <!---
